@@ -1,0 +1,61 @@
+div{
+     background-color: white;
+     margin-top: 100px;
+     margin-bottom: 20px;
+}
+p{
+	font-size: 150%;
+}
+body{
+	background-color: #0A68CF;
+}
+#text{
+	background-color: #51B8D9;
+	border-radius: 50px;
+	text-align: center;
+	color: white;
+	font-family: cursive;
+}
+#form{
+	margin-top: 100px;
+	margin-bottom: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 100px;
+}
+#button{
+	height: 50px;
+	border-radius: 50px;
+}
+a{
+	margin-top: 10px;
+	font-size: 150%;
+	font-family: cursive;
+}
+#id{
+	display: none;
+}
+option{
+	text-align: center;
+	font-size: 120%;
+}
+img{
+	position: relative;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+h1,h2,h3{
+	text-align: center;
+	color: #0A68CF;
+	margin-top: 100px;
+	font-family: cursive;
+}
+#congrats{
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 150px;
+	border-radius: 100px;
+	margin-bottom: 50px;
+}
+
+
